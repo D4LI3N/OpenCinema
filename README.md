@@ -4,11 +4,17 @@
 [![badge](https://img.shields.io/badge/support-PayPal-blue.svg)](https://paypal.me/d4li3n?country.x=HR&locale.x=en_US)
 [![badge](https://img.shields.io/badge/publication-danielthecyberdude.com-purple.svg)](https://danielthecyberdude.com/project/opencinema)
 
-[badge](https://img.shields.io/badge/technology-HTML-green.svg)
-[badge](https://img.shields.io/badge/technology-CSS-green.svg)
-[badge](https://img.shields.io/badge/technology-Javascript-green.svg)
-[badge](https://img.shields.io/badge/technology-Typescript-green.svg)
-[badge](https://img.shields.io/badge/technology-Batch-Javascript.svg)
+![badge](https://img.shields.io/badge/technology-HTML-green.svg)
+![badge](https://img.shields.io/badge/technology-CSS-green.svg)
+![badge](https://img.shields.io/badge/technology-Javascript-green.svg)
+![badge](https://img.shields.io/badge/technology-Typescript-green.svg)
+![badge](https://img.shields.io/badge/technology-MongoDB-green.svg)
+![badge](https://img.shields.io/badge/technology-Express.js-green.svg)
+![badge](https://img.shields.io/badge/technology-Angular-green.svg)
+![badge](https://img.shields.io/badge/technology-Next.js-green.svg)
+![badge](https://img.shields.io/badge/technology-Bootstrap-green.svg)
+![badge](https://img.shields.io/badge/technology-Batch-green.svg)
+![badge](https://img.shields.io/badge/technology-Batch-green.svg)
 
 
 **OpenCinema** is a Web application that acts as a digital movie library.
